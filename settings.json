@@ -3,7 +3,7 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
-    "python.pythonPath": "M:\\Dev\\Python310\\python.exe",
+    "python.pythonPath": "C:\\Python310\\python.exe",
     "editor.fontSize": 13,
     "editor.fontFamily": "Fira Code",
     "editor.fontWeight": "400", 
