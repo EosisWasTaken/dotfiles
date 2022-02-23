@@ -1,4 +1,5 @@
 Here's a quick list of all the VSCode extensions I use !
+
 ![Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ![CodeSwing](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing)
