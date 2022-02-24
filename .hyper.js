@@ -145,7 +145,8 @@ module.exports = {
         "hyper-active-tab",
         "verminal",
         "hyperline",
-        "hyperpower"
+        "hyperpower",
+        "hyper-pokemon"
     ],
     // in development, you can create a directory under
     // `~/.hyper_plugins/local/` and include it here
